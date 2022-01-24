@@ -2,44 +2,66 @@
 
 SETUP COMMANDS
 
+```
 git config --global user.name "[username]"
+```
 This is used to set an identifiable name while using git and github.
-
+```
 git config --global user.email "[validemailaddress]"
+```
 used to set email address that will be associated with each history maker.
 
 INIT COMMAND
 
+```
 git init
+```
 used to initialize and an existing repository as a git repository and 
 git keeps an eye on the existing repository from now onwards.
 
 OTHER COMMANDS
  
- git status
- displays the state of the working directory and the staging area.
+```
+git status
+```
+displays the state of the working directory and the staging area.
  For exapmle, which files are not tracked and files staged for the next commit.
 
- git add
- add and track files in the current repository and prepares them for the next commit.
+```
+git add
+```
+add and track files in the current repository and prepares them for the next commit.
 
- git commit -m "[Message]"
+``` git commit -m "[Message]"
+ ```
  Makes the changes permanent. Sets the checkpoint.
 
- git rm [file]
- delete the file from project and stage the removal for commit.
+```
+git rm [file]
+```
+delete the file from project and stage the removal for commit.
 
- git mv[existing path] [new path]
- change an existing file path and stage the move.
+```
+git mv[existing path] [new path]
+```
+change an existing file path and stage the move.
 
- git log
- show the commit history for the currently active branch.
+```
+git log
+```
+show the commit history for the currently active branch.
 
- git remote add origin "[URL]"
- It links the local repository with the remote repository. 
+```
+git remote add origin "[URL]"
+```
+It links the local repository with the remote repository. 
 
- git push -u origin master
- used to upload the code or projetc for the first time
+```
+git push -u origin master
+```
+used to upload the code or projetc for the first time
 
- git push 
- Used to upload the code or project on github
+```
+git push 
+```
+Used to upload the code or project on github
