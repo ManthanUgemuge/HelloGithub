@@ -32,8 +32,9 @@ git add
 ```
 add and track files in the current repository and prepares them for the next commit.
 
-``` git commit -m "[Message]"
- ```
+```
+git commit -m "[Message]"
+```
  Makes the changes permanent. Sets the checkpoint.
 
 ```
