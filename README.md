@@ -1,5 +1,6 @@
 # HelloGithub
 Sets of Basic Git Commands used on daily Basis.
+I made it for personal use but you can fork it too.
 
 ## Tech Stacks Used
 <a target="_blank" href="https://git-scm.com/"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></img></a>
