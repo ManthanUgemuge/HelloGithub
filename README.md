@@ -72,3 +72,9 @@ used to upload the code or projetc for the first time
 git push 
 ```
 Used to upload the code or project on github
+
+## Contributing
+Pull requests are welcome, feel free to ```fork``` this repo.
+
+## License
+This project is open-sourced under the [MIT license]().
