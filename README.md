@@ -1,4 +1,4 @@
-# HelloGithub
+# Hello Github
 Sets of Basic Git Commands used on daily Basis.
 I made it for personal use but you can fork it too.
 
