@@ -15,7 +15,7 @@ I made it for personal use but you can fork it too.
 ###### 9. Push changes to live server from your local server.
 ###### 10. Request a PR and PM me.
 
-#### Any doubts, PM me. I want this done by 24/9/2019
+#### Any doubts, PM me. I want this done by 11/07/2022
 
 ## Tech Stacks Used
 <a target="_blank" href="https://git-scm.com/"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></img></a>
@@ -81,7 +81,7 @@ It links the local repository with the remote repository.
 ```
 git push -u origin master
 ```
-used to upload the code or projetc for the first time
+used to upload the code or project for the first time
 
 ```
 git push 
