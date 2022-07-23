@@ -81,12 +81,14 @@ It links the local repository with the remote repository.
 ```
 git push -u origin master
 ```
-used to upload the code or project for the first time
+used to upload the code or project for the first time. 
 
 ```
 git push 
 ```
-Used to upload the code or project on github
+Used to upload the code or project on github.
+
+git kraken 
 
 ## Contributing
 Pull requests are welcome, feel free to ```fork``` this repo.
